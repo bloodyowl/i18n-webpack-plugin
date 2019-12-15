@@ -1,6 +1,6 @@
 {
-  "name": "tapable-i18n-webpack-plugin",
-  "version": "2.0.0",
+  "name": "inline-translations-webpack-plugin",
+  "version": "1.0.0",
   "author": "Tobias Koppers @sokra",
   "description": "Embed localization into your bundle",
   "main": "dist/cjs.js",
