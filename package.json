@@ -1,7 +1,7 @@
 {
   "name": "inline-translations-webpack-plugin",
-  "version": "1.0.0",
-  "author": "Tobias Koppers @sokra",
+  "version": "1.0.1",
+  "author": "bloodyowl <bloodyowl@icloud.com>",
   "description": "Embed localization into your bundle",
   "main": "dist/cjs.js",
   "files": [
